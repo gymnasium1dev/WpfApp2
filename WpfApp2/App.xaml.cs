@@ -10,6 +10,8 @@ namespace WpfApp2
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml
+    kljvfdjkvjkxglhk
+
     /// </summary>
     public partial class App : Application
     {
